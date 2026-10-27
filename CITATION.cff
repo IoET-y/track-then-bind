@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Track, Then Bind"
+type: software
+license: MIT
+repository-code: "https://github.com/IoET-y/track-then-bind"
+authors:
+  - family-names: Yang
+    given-names: Di
+  - family-names: Li
+    given-names: Xiaochang
+  - family-names: Liu
+    given-names: Muyang
+  - family-names: Wang
+    given-names: Yufei
+  - family-names: Xiong
+    given-names: Yanhai
+preferred-citation:
+  type: article
+  title: "Ask About the Right Moment: Training-Free Object Identity Reasoning for Video-Language Models"
+  year: 2026
+  authors:
+    - family-names: Yang
+      given-names: Di
+    - family-names: Li
+      given-names: Xiaochang
+    - family-names: Liu
+      given-names: Muyang
+    - family-names: Wang
+      given-names: Yufei
+    - family-names: Xiong
+      given-names: Yanhai
